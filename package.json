@@ -1,0 +1,26 @@
+{
+  "name": "parcel-react-mobx-typescript-todo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel ./public/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "autoprefixer": "true8.2.0",
+    "babel-preset-env": "true1.6.1",
+    "babel-preset-react-app": "true3.1.1",
+    "mobx": "true4.1.1",
+    "mobx-react": "true5.0.0",
+    "postcss-modules": "true1.1.0",
+    "react": "true16.3.1",
+    "react-dom": "true16.3.1"
+  },
+  "devDependencies": {
+    "babel-core": "true6.26.0",
+    "typescript": "true2.8.1"
+  }
+}
